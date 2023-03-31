@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+    margin: auto;
+    max-width: 60%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    color: #f9faf8;
+    background-color: #1f2937;
+    justify-content: center;
+    text-align: center;
+}
+
+.header-logo {
+    flex: 1;
+    margin: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.navbar {
+    display: flex;
+    flex: 1;
+    font-size: 12px;
+    justify-content: center;
+    color: #e5e7eb;
+}
+
+.navbar div {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 8px
+    
+}
+
+main div {
+    flex: 1 1 0;
+    padding: 30px;
+}
+
+main div div {
+    padding: 0;
+}
+
+.img-plchold {
+    width: 50%;
+    background-color: grey;
+    font-size: 10px;
+}
+
+.hero-main {
+    font-size: 28px;
+    font-weight: bolder;
+    color: #f9faf8;
+    text-align: left;
+}
+
+.hero-sec {
+    font-size: 10px;
+    text-align: left;.
+    font-weight: ;
+    color: #e5e7eb;
+}
+
+.vert-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+
+}
